@@ -56,5 +56,4 @@ Please cite the following paper in your publications if BaitHunter helps your re
   booktitle = {2025 International Conference on Information and Communications Security (ICICS 2025)},
   year = {2025},
 }
----
 ```
