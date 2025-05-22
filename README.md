@@ -1,10 +1,20 @@
 # Why Biting the Bait? Understanding Bait and Switch UI Dark Patterns in Mobile Apps
 
 
-**BaitHunter** is a general analytical framework designed to detect **Bait and Switch (B&S)** dark patterns in mobile application interfaces. B&S is a manipulative tactic where apps attract users with appealing "bait" (e.g., low-cost offers), only to switch to misleading or harmful content (e.g., data collection prompts or unexpected charges).
+**BaitHunter** is a general analytical framework designed to detect **Bait and Switch (BnS)** dark patterns in mobile application interfaces. BnS is a manipulative tactic where apps attract users with appealing "bait" (e.g., low-cost offers), only to switch to misleading or harmful content (e.g., data collection prompts or unexpected charges).
 
-> 🚨 Bait and Switch dark patterns threaten user **autonomy**, **privacy**, and **financial safety**.
+> 🚨 Bait and Switch dark patterns threaten user **autonomy**, **privacy**, annd **financial safety**.
 
+### 📸 Examples of Bait and Switch Dark Patterns
+
+**Example 1: An example of Bait and Switch pattern**  
+![Example 1](./images/intro.png)
+
+**Example 2: False Promise as Baits**  
+![Example 2](./images/fp.png)
+
+**Example 3: Misleading Promise as Baits**  
+![Example 3](./images/mp.png)
 ---
 
 ## 🔍 What is BaitHunter?
