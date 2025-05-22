@@ -8,14 +8,13 @@
 ### 📸 Examples of Bait and Switch Dark Patterns
 
 **Example 1: An example of Bait and Switch pattern**  
-<p>**Example 1: An example of Bait and Switch pattern**</p>
-<img src="./images/intro.jpg" alt="Example 1" width="50%" />
+<img src="./images/intro.jpg"  width="50%" />
 
-<p>**Example 2: False Promise as Baits**</p>
-<img src="./images/fp.png" alt="Example 2" width="60%" />
+**Example 2: False Promise as Baits**  
+<img src="./images/fp.png"  width="60%" />
 
-<p>**Example 3: Misleading Promise as Baits**</p>
-<img src="./images/mp.png" alt="Example 3" width="60%" />
+**Example 3: Misleading Promise as Baits**  
+<img src="./images/mp.png"  width="60%" />
 
 ---
 
